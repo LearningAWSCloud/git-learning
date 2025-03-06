@@ -29,6 +29,10 @@ ls -ltr
 ```
 
 ## Git Merge Conflict Resolve
+
+![Flow](images/git-branching-merge-conflict-resolution.png)
+
+
 ```sh
 mkdir learn2
 cd learn2
