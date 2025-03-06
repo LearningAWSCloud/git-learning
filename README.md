@@ -3,6 +3,8 @@
 ## Git
 
 ```sh
+mkdir learn1
+cd learn1
 git init
 vi README.md
 git status
@@ -26,4 +28,3 @@ git checkout master
 git merge develop
 ls -ltr
 ```
-
